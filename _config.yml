@@ -1,0 +1,6 @@
+title: MediPilot Lite
+description: Riippumaton apuväline Mehidoc-käyttäjille. Tietosuojaseloste ja muutosloki. Ei Mehiläinen Oy:n tuote.
+lang: fi
+theme: jekyll-theme-primer
+exclude:
+  - README.md
