@@ -4,11 +4,11 @@ title: Tietosuojaseloste
 
 # MediPilot Lite: tietosuojaseloste
 
-**Julkaisija:** Asklepios Consulting Oy, Y-tunnus 3245307-1, IoT Campus, Joensuunkatu 7, 24100 Salo,
-asklepiosconsultingoy@gmail.com, +358 44 013 0683
-**Koskee:** Chrome-laajennus "MediPilot Lite" (Chrome Web Store; tunniste lisätään tähän julkaisun jälkeen)
-**Versio:** 1.0, voimassa 23.10.2026 alkaen
-**In English:** [Privacy Policy](privacy)
+- **Julkaisija:** Asklepios Consulting Oy, Y-tunnus 3245307-1, IoT Campus, Joensuunkatu 7, 24100 Salo,
+  asklepiosconsultingoy@gmail.com, +358 44 013 0683
+- **Koskee:** Chrome-laajennus "MediPilot Lite" (Chrome Web Store; tunniste lisätään tähän julkaisun jälkeen)
+- **Versio:** 1.0, voimassa 23.10.2026 alkaen
+- **In English:** [Privacy Policy](privacy)
 
 **Laajennuksen versiot:** laajennuksen versio 1.0.0 sisältää vain anonymisoidun kopioinnin (kohta 3 ja
 kohdan 5 leikepöytä). Tämä seloste kuvaa jo myös versiossa 1.1.0 tulevat toiminnot (uusinnan apuri, "ota

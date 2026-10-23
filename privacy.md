@@ -4,12 +4,12 @@ title: Privacy Policy
 
 # MediPilot Lite: Privacy Policy
 
-**Publisher:** Asklepios Consulting Oy (Business ID 3245307-1), IoT Campus, Joensuunkatu 7, FI-24100 Salo,
-Finland, asklepiosconsultingoy@gmail.com, +358 44 013 0683
-**Applies to:** the Chrome extension "MediPilot Lite" (Chrome Web Store; the item ID will be added here after
-publication)
-**Version:** 1.0, effective 23 October 2026
-**Suomeksi:** [Tietosuojaseloste](tietosuojaseloste) (the Finnish text is the authoritative version)
+- **Publisher:** Asklepios Consulting Oy (Business ID 3245307-1), IoT Campus, Joensuunkatu 7, FI-24100 Salo,
+  Finland, asklepiosconsultingoy@gmail.com, +358 44 013 0683
+- **Applies to:** the Chrome extension "MediPilot Lite" (Chrome Web Store; the item ID will be added here after
+  publication)
+- **Version:** 1.0, effective 23 October 2026
+- **Suomeksi:** [Tietosuojaseloste](tietosuojaseloste) (the Finnish text is the authoritative version)
 
 **MediPilot Lite** is a Chrome extension published by Asklepios Consulting Oy for physicians who use the
 Mehidoc patient record system at mehidoc.mehilainen.fi. It is an independent tool and not a product of

@@ -30,6 +30,6 @@ käyttäjille erikseen.
 
 ## Yhteystiedot
 
-Asklepios Consulting Oy, Y-tunnus 3245307-1
-IoT Campus, Joensuunkatu 7, 24100 Salo
-asklepiosconsultingoy@gmail.com, +358 44 013 0683
+- Asklepios Consulting Oy, Y-tunnus 3245307-1
+- IoT Campus, Joensuunkatu 7, 24100 Salo
+- asklepiosconsultingoy@gmail.com, +358 44 013 0683
